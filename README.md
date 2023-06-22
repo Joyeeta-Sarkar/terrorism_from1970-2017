@@ -20,5 +20,5 @@ then try these steps:
 3) pip install --upgrade nbformat
 4) Restart your Kernel
 5) Run your code again
-And you'll see your world map running.
-(This is only for your reference) 
+/nAnd you'll see your world map running.
+/n(This is only for your reference) 
