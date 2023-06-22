@@ -6,3 +6,5 @@ Noteworthy libraries/packages used:
 1. pandas
 2. matplotlib
 3. numpy
+
+Refer Task.txt to know about terrorism task
